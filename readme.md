@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              5 hrs 39 mins   ██████████████████▓░░░░░░   74.12 %
-Python            43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Markdown          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-TypeScript        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Git Config        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
